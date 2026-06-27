@@ -41,3 +41,6 @@
 - **Reverse String**
 - **Palindrome**
 - **Second Largest Element**
+
+
+### Q1. Can you explain the difference between JDK, JRE, and JVM? Also explain what happens internally when you run a Java program.
